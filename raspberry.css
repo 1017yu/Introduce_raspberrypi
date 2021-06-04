@@ -1,0 +1,81 @@
+body {
+  font-family: 'Do Hyeon', sans-serif;
+  border: 0;
+}
+
+.name {
+  text-align: center;
+  background-color:lightslategrey;
+  border-radius: 10px;
+  margin-left: 230px;
+  margin-right: 230px;
+}
+
+.name h1 {
+  font-size: 48px;
+}
+
+.name h2 {
+  font-size: 32px;
+}
+
+.navbar {
+  background-color:mediumblue;
+  height: 70px;
+}
+
+.navbar p {
+  color: white;
+  margin-left: 50px;
+  line-height: 70px;
+  font-size: 25px;
+}
+
+.logo {
+  text-align: center;
+  background-color: bisque;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+  margin-bottom: 90px;
+}
+
+ul {
+  font-size: 32px;
+  color:crimson; 
+}
+
+.intro {
+  margin-bottom: 90px;
+  border: 6px solid black;
+}
+p {
+  font-size: 24px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.raspberry {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+
+}
+
+.explan {
+  margin-bottom: 90px;
+  border: 6px solid black;
+}
+
+.install {
+  border: 6px solid black;
+}
+
+.install a {
+  text-decoration: none;
+  color: gold;
+  font-size: 70px;
+  font-style: oblique;
+  margin-left: 30px;
+}
